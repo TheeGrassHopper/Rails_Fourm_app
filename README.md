@@ -9,6 +9,7 @@ Things you may want to cover:
 
 * To Run App 
 	bundle install
+	rake db:migrate
 	rails s
 
 * ...
